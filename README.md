@@ -299,7 +299,7 @@ When I did the study plan, I used 2 languages for most of it: C and Python
         - You don't need to go super deep in the book (or even finish it). Just get to where you're comfortable reading and writing in C.
         - [Answers to questions in the book](https://github.com/lekkas/c-algorithms)
 * Python: Modern and very expressive, I learned it because it's just super useful and also allows me to write less code in an interview.
-
+و اتبعوا ما تتلوا الشياطين
 This is my preference. You do what you like, of course.
 
 You may not need it, but here are some sites for learning a new language:
@@ -692,7 +692,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
             - [Instant Uploads And Storage Optimization In Dropbox (video)](https://www.coursera.org/lecture/data-structures/instant-uploads-and-storage-optimization-in-dropbox-DvaIb)
             - [Distributed Hash Tables (video)](https://www.coursera.org/lecture/data-structures/distributed-hash-tables-tvH8H)
 
-    - [ ] Implement with array using linear probing
+    - [x] Implement with array using linear probing
         - hash(k, m) - m is size of hash table
         - add(key, value) - if key already exists, update value
         - exists(key)
