@@ -725,25 +725,25 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [x] [The Bit Twiddler Interactive](https://bits.stephan-brumme.com/interactive.html)
         - [x] [Bit Hacks (video)](https://www.youtube.com/watch?v=ZusiKXcz_ac)
 		- [x] [Practice Operations](https://pconrad.github.io/old_pconrad_cs16/topics/bitOps/)
-    - [ ] 2s and 1s complement
+    - [x] 2s and 1s complement
         - [Binary: Plusses & Minuses (Why We Use Two's Complement) (video)](https://www.youtube.com/watch?v=lKTsv6iVxV4)
         - [1s Complement](https://en.wikipedia.org/wiki/Ones%27_complement)
         - [2s Complement](https://en.wikipedia.org/wiki/Two%27s_complement)
-    - [ ] Count set bits
+    - [x] Count set bits
         - [4 ways to count bits in a byte (video)](https://youtu.be/Hzuzo9NJrlc)
         - [Count Bits](https://graphics.stanford.edu/~seander/bithacks.html#CountBitsSetKernighan)
         - [How To Count The Number Of Set Bits In a 32 Bit Integer](http://stackoverflow.com/questions/109023/how-to-count-the-number-of-set-bits-in-a-32-bit-integer)
-    - [ ] Swap values:
+    - [x] Swap values:
         - [Swap](https://bits.stephan-brumme.com/swap.html)
-    - [ ] Absolute value:
+    - [x] Absolute value:
         - [Absolute Integer](https://bits.stephan-brumme.com/absInteger.html)
 
 ## Trees
 
 - ### Trees - Intro
-    - [ ] [Intro to Trees (video)](https://www.coursera.org/lecture/data-structures/trees-95qda)
-    - [ ] [Tree Traversal (video)](https://www.coursera.org/lecture/data-structures/tree-traversal-fr51b)
-    - [ ] [BFS(breadth-first search) and DFS(depth-first search) (video)](https://www.youtube.com/watch?v=uWL6FJhq5fM)
+    - [x] [Intro to Trees (video)](https://www.coursera.org/lecture/data-structures/trees-95qda)
+    - [x] [Tree Traversal (video)](https://www.coursera.org/lecture/data-structures/tree-traversal-fr51b)
+    - [x] [BFS(breadth-first search) and DFS(depth-first search) (video)](https://www.youtube.com/watch?v=uWL6FJhq5fM)
         - BFS notes:
            - level order (BFS, using queue)
            - time complexity: O(n)
@@ -756,14 +756,14 @@ if you can identify the runtime complexity of different algorithms. It's a super
             - inorder (DFS: left, self, right)
             - postorder (DFS: left, right, self)
             - preorder (DFS: self, left, right)
-    - [ ] [[Review] Breadth-first search in 4 minutes (video)](https://youtu.be/HZ5YTanv5QE)
-    - [ ] [[Review] Depth-first search in 4 minutes (video)](https://youtu.be/Urx87-NMm6c)
-    - [ ] [[Review] Tree Traversal (playlist) in 11 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZO1JC2RgEi04nLy6D-rKk6b)
+    - [x] [[Review] Breadth-first search in 4 minutes (video)](https://youtu.be/HZ5YTanv5QE)
+    - [x] [[Review] Depth-first search in 4 minutes (video)](https://youtu.be/Urx87-NMm6c)
+    - [x] [[Review] Tree Traversal (playlist) in 11 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZO1JC2RgEi04nLy6D-rKk6b)
 
 - ### Binary search trees: BSTs
-    - [ ] [Binary Search Tree Review (video)](https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)    
-    - [ ] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction)
-    - [ ] [MIT (video)](https://www.youtube.com/watch?v=76dhtgZt38A&ab_channel=MITOpenCourseWare)
+    - [x] [Binary Search Tree Review (video)](https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)    
+    - [x] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction)
+    - [x] [MIT (video)](https://www.youtube.com/watch?v=76dhtgZt38A&ab_channel=MITOpenCourseWare)
     - C/C++:
         - [ ] [Binary search tree - Implementation in C/C++ (video)](https://www.youtube.com/watch?v=COZK7NATh4k&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=28)
         - [ ] [BST implementation - memory allocation in stack and heap (video)](https://www.youtube.com/watch?v=hWokyBoo0aI&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=29)
